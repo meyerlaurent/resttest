@@ -1,14 +1,50 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movies": [
+    {
+      "Title": "Nelson Mandela",
+      "Runtime": "Inspiration",
+      "Poster": "https://img.freepik.com/premium-vector/greatest-glory-living-lies-never-falling-motivational-quote-free-vector_667914-31.jpg"
+    },
+    {
+      "Title": "Walt Disney",
+      "Runtime": "Motivation",
+      "Poster": "https://img.freepik.com/premium-vector/motivational-t-shirt-design-with-handwritten-typography_666915-112.jpg"
+    },
+    {
+      "Title": "Steve Jobs",
+      "Runtime": "Life",
+      "Poster": "https://img.freepik.com/premium-vector/motivational-t-shirt-design-with-handwritten-typography_666915-172.jpg"
+    },
+    {
+      "Title": "Eleanor Roosevelt",
+      "Runtime": "Philosophy",
+      "Poster": "https://img.freepik.com/premium-vector/motivational-tshirt-design-with-handwritten-typography_666915-15.jpg"
+    },
+  {
+      "Title": "Oprah Winfrey",
+      "Runtime": "Gratitude",
+      "Poster": "https://i0.wp.com/booksameya.in/wp-content/uploads/2020/11/If-you-look-at-what-you-have-in-life.png"
+    },
+  {
+      "Title": "Dalai Lama",
+      "Runtime": "Happiness",
+      "Poster": "https://img.freepik.com/premium-vector/purpose-our-lives-is-be-happy-tshirt-design_562118-1503.jpg"
+    },
+  {
+      "Title": "Winston Churchill",
+      "Runtime": "Courage",
+      "Poster": "https://img.freepik.com/premium-vector/success-is-final-failure-is-fatal-motivational-quotes-t-shirt-design_597129-7.jpg"
+    },
+  {
+      "Title": "Theodore Roosevelt",
+      "Runtime": "Belief",
+      "Poster": "https://img.freepik.com/premium-vector/believe-you-can-you-re-halfway-there-poster-quote_97378-1038.jpg?w=740"
+    },
+  {
+      "Title": "Sam Levenson",
+      "Runtime": "Perseverance",
+      "Poster": "https://img.freepik.com/premium-vector/watch-clock-what-it-does-keep-going-tshirt-design_650824-123.jpg"
+    }
+  
+  ]
 }
