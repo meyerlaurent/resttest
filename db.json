@@ -1,5 +1,5 @@
 {
-  "wifi/networks": [
+  "wifi_networks": [
     { "ssid": "SQ Members", "secured": true },
     { "ssid": "WiFi-5AT-SQ","secured": true },
     { "ssid": "SVQ-Devices","secured": true },
